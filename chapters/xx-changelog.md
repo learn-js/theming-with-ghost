@@ -1,4 +1,6 @@
-# v0.1.0 - February 10
+# Changelog
+
+## v0.1.0 - February 10
 - Added preface.md
 - Added introduction.md
 - Added installation.md
