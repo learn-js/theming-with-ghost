@@ -1,0 +1,6 @@
+00-preface.md
+01-introduction.md
+02-installation.md
+03-ghost-templates-and-handlebars.md
+04-theme-example-landing-page.md
+xx-changelog.md

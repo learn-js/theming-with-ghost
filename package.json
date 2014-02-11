@@ -1,0 +1,18 @@
+{
+  "name": "theming-with-ghost",
+  "description": "Learn to develop themes for Ghost using modern front-end development tools and workflows.",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/learn-js/theming-with-ghost.git"
+  },
+  "scripts": {
+    "leanpub": "./bin/leanpub",
+    "compile": "./bin/compile",
+    "dist": "./bin/dist"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "manuscript-builder": "0.0.3",
+    "ebook-convert": "0.0.2"
+  }
+}
